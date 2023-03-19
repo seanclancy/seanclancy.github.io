@@ -120,7 +120,7 @@
       "institution": "University of Delaware, Wilmington, DE",
       "area": "Project Management",
       "studyType": "Professional Certificate",
-     "startDate": "2010",
+      "startDate": "2010",
       "endDate": "2010",
       "courses": [
       ]
@@ -129,7 +129,7 @@
       "institution": "Naval Air Warfare Center Weapons Development, China Lake, CA",
       "area": "Polymer Science and Engineering",
       "studyType": "Postdoctoral Fellowship",
-     "startDate": "2005",
+      "startDate": "2005",
       "endDate": "2006",
       "courses": [
       ]
@@ -138,18 +138,18 @@
       "institution": "University of Southern California, Los Angeles, CA",
       "area": "Chemistry",
       "studyType": "Ph.D.",
-     "startDate": "2000",
+      "startDate": "2000",
       "endDate": "2005",
-     "courses": [
+      "courses": [
      ]
    },
    {
       "institution": "University of North Florida, Jacksonville, FL",
       "area": "Chemistry",
       "studyType": "B.S.",
-     "startDate": "1993",
+      "startDate": "1993",
       "endDate": "1997",
-     "courses": [
+      "courses": [
      ]
    }    
   ],
@@ -193,7 +193,7 @@
         "Project lead: Served as a technical resource and the resident SME on coatings and electronics manufacturing industry best practices in cross-functional teams, providing leadership in failure analysis, and customer projects in qualification testing, surface preparation before coating, adhesion promotion, and post-coating surface chemistry modifications.", 
         "Customer-facing engineer for hands-on development of coating evaluations to meet customer specifications, root cause failure analysis, and guidance with product validation testing."
       ]
-   },
+   }
    {
   "awards": [
     {
@@ -210,4 +210,3 @@
     }
     ]
    }
-]
