@@ -1,47 +1,156 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Sean Owen Clancy, Ph.D.",
+    "label": "Director of Materials Science, Leader, Scientist, Problem Solver, Technology Developer",
+    "picture": "https://github.com/seanclancy.png",
+    "email": "me@seanclancy.org",
+    "phone": "302-468-7321",
+    "website": "https://seanclancy.github.io",
+    "summary": "I’m passionate about science, technology, community, and family. Working hard isn’t enough, you also have to be flexible, innovative, and ethical. That’s what will makes me a valuable member of organizations, as well as being a good friend. I have strong technical skills and hands-on experience in creating or modifying existing products and processes using analytical, synthetic organic, and polymer chemistry, as well as materials science and engineering. I’ve helped develop and qualify existing and new materials and manufacturing processes, as well as figured things out when issues arose and how to get a manufacturing line up and running again. Besides science and technology, I have experience in project management, technical writing, communications, and marketing. Outside of chemistry and the sciences, I enjoy the culinary arts, drawing, photography, reading, gaming, web design, and working with computers.",
+    "location": { "address": "", "postalCode": "", "city": "", "countryCode": "USA", "region": "" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "mmaluhia", "url": "http://github.com/seanclancy" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/seanclancy" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Additive Manufacturing (3D Printing)" },
+    { "name": "Analytical, Organic, Physical, and Polymer Chemistry" },
+    { "name": "Business Development & Value Creation" },
+    { "name": "Chemical, Materials, Mechanical, Optical, Physical, and Instrumental Analysis" },
+    { "name": "Coatings: Anti-Corrosion, Barrier (Chemical, Dielectric, Gas, Oxygen, Moisture, Physical, Solvent, etc.), Functional (Anti-Reflection, Charge Storage, Chemical Sensing, Optical, etc.)" },
+    { "name": "Management: Laboratory, Multidisciplinary Teams, People, Project, Program, etc." },
+    { "name": "Materials & Process Development" },
+    { "name": "Materials Characterization, Microscopy, Performance, Property, Root Cause Failure Analysis, Spectroscopy, Surface Analysis, etc." },
+    { "name": "Research & Development" },
+    { "name": "Technical Writing & Training" },
+    { "name": "Technology Development" },
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Cleanliness Testing and Residue Analysis",
+      "keywords": [ "Fourier Transform Infrared (FTIR) Spectroscopy", "Ion Chromatography (IC)", "Resistivity of Solvent Extract (ROSE)", "Scanning Electron Microscopy - Energy Dispersive X-Ray Spectroscopy (SEM-EDS)" ]
+    },
+    {
+      "name": "Electrochemical Processes and Testing",
+      "keywords": [ "Cyclic Voltammetry (CV)", "Electrochemical Impedance Spectroscopy (EIS)", "Immersion Testing", "Sequential Electrochemical Reduction Analysis (SERA)", "Surface Insulation Resistance (SIR)" ]
+    },
+    {
+      "name": "Environmental Stress Screening (ESS)",
+      "keywords": [ "Elevated Temperature & Humidity", "Highly-Accelerated Stress Testing (HAST)", "Immersion Testing", "Ingress Protection (IP) Testing", "Salt Fog", "Surface Insulation Resistance (SIR)", "Thermal Cycling" ]
+    },
+    {
+      "name": "Imaging",
+      "keywords": [ "Atomic Force Microscopy (AFM)", "Conductive Atomic Force Microscopy (C-AFM)", "Fourier Transform Infrared (FTIR)", "Metallography", "Optical", "Raman", "Scanning Electron Microscopy (SEM)", "Time-of-Flight - Secondary-Ion Mass Spectrometry (TOF-SIMS)", "Digital Photography", "Endoscopy", "Thermography", "Time-Lapse", "Transmission X-Ray and Computed Tomography (CT)" ]
+    },
+    {
+      "name": "Surface Science",
+      "keywords": [ "Adhesion", "Cleaning", "Cleanliness and Contamination Testing", "Contact Angle Goniometry", "Dyne Pens", "Plasma Activations and Modifications", "Sequential Electrochemical Reduction Analysis (SERA)" ]
+    },
+    {
+      "name": "Thickness Measurements",
+      "keywords": [ "Ellipsometry", "Spectral Reflectance", "Optical Profilometry", "Stylus Profilometry" ]
+    },
+    {
+      "name": "Purity and Identity Testing: Chromatography",
+      "keywords": [ "Gas Chromatography with Mass Spectrometry (GC-MS)", "High-Pressure/Performance Liquid Chromatography (HPLC)", "Ion Chromatography (IC)", "Gel Permeation Chromatography (GPC)", "Size-Exclusion Chromatography (SEC)", "Thin Layer Chromatography (TLC)" ]
+    },
+    {
+      "name": "Purity and Identity Testing: Spectroscopy",
+      "keywords": [ "Energy Dispersive X-Ray Spectroscopy (EDS or EDX)", "Fourier Transform Infrared (FTIR) Spectroscopy", "Mass Spectrometry (MS)", "Nuclear Magnetic Resonance (NMR) Spectroscopy", "Optical Emission Spectroscopy (OES)", "Ultraviolet-Visible-Near-Infrared (UV-Vis-NIR) Spectrophotometry", "X-Ray Photoelectron Spectroscopy (XPS)", "X-Ray Diffraction (XRD)", "X-Ray Fluorescence (XRF)" ]
+    },
+    {
+      "name": "Purity and Identity Testing: Thermal Analysis",
+      "keywords": [ "Melting Point Analysis", "Differential Scanning Calorimetry (DSC)", "Thermogravimetric Analysis (TGA)" ]
+    },
+    {
+      "name": "Root Cause Failure Analysis (RCFA)",
+      "keywords": [ "Cleaning and Surface Preparation Processes", "Coatings", "Counterfeit Products", "Cross-Sectional Analysis", "Fractures", "Grain Structures", "Intermetallics", "Platings", "Solder Joints", "Solder Masks", "Surface Finishes" ]
+    },
+    {
+      "name": "Root Cause Failure Analysis (RCFA)",
+     "keywords": [ "Cleaning and Surface Preparation Processes", "Coatings", "Counterfeit Products", "Cross-Sectional Analysis", "Fractures", "Grain Structures", "Intermetallics", "Platings", "Solder Joints", "Solder Masks", "Surface Finishes" ]
+    },
+    {
+      "name": "Thin Film and Conformal Coating Processes",
+     "keywords": [ "Atomic Layer Deposition (ALD", "Chemical Vapor Deposition", "Electropolymerization", "Initiated CVD (iCVD)", "Plasma-Enhanced CVD (PECVD)", "Physical Vapor Deposition (PVD)", "Self-Assembled Monolayers (SAMs)", "Solvent-Based Deposition: Dip, Dispense, Spray" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
-    }
+     "keywords": [ "Windows", "macOS", "Linux", "Ubuntu", "iPhone OS", "Android", "Docker", "Virtual Machines (VMs)", "Git/GitHub" ]
+    },
+    {
+      "name": "Document Creation, Design, and Editing",
+      "keywords": [ "Apple Keynote, Numbers, Pages", "Google Workspace: Docs, Sheets, Slides", "Microsoft 365/Office: Excel, Outlook, PowerPoint, Word" ]
+    },
+    {
+      "name": "Media Creation, Design, and Editing",
+      "keywords": [ "Adobe Creative Suite: Illustrator, InDesign, Photoshop, Premiere, etc." ]
+    },
+    {
+      "name": "Data Analysis",
+      "keywords": [ "Excel", "Minitab", "JMP", "R" ]
+    },
+    {
+      "name": "Image Analysis: FIJI (ImageJ)",
+      "keywords": [ "Dimensional Analysis", "Measure Contact Angle", "Measure Particle Count", "Solder Void Percentage" ]
+    },
+    {
+      "name": "Chemical Drawing, Spectral Prediction, and Spectroscopic Data Analysis",
+      "keywords": [ "ChemAxon MarvinSketch", "Computational Chemistry Software", "Spectragryph", "Spectral Data Processor (SDP)" ]
+    },
+    {
+      "name": "Design and Evaluation: Computer-Aided Design (CAD)",
+      "keywords": [ "Autodesk AutoCAD", "Autodesk EAGLE", "Autodesk Fusion 360", "Autodesk Inventor Professional", "Autodesk Tinkercad", "FreeCAD", "Onshape", "OpenSCAD", "Sketchup", "SolidWorks", "Sweet Home 3D" ]
+    {
+      "name": "Additive Manufacturing",
+      "keywords": [ "3D Printing Slicer: Prusa Research PrusaSlicer, Ultimaker Cura", "3D Mesh File Processing: MeshLab - 3D Mesh Processing Software", "Photogrammetry & 3D Reconstruction Software: 3Dflow 3DF Zephyr Free, Meshroom (AliceVision)" ]
+    },    {
+      "name": "Subtractive Manufacturing: SVG-File Creation for Laser Processes",
+      "keywords": [ "Adobe Illustrator", "InkScape" ]
+    },
+    {
+      "name": "Analysis and Simulation",
+      "keywords": [ "Autodesk CFD", "MathWorks MATLAB & SIMULINK" ]
+    },
   ],
   "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+   {
+      "institution": "University of Delaware, Wilmington, DE",
+      "area": "Project Management",
+      "studyType": "Professional Certificate",
+     "startDate": "2010",
+      "endDate": "2010",
       "courses": [
       ]
-    }
+   },
+   {
+      "institution": "Naval Air Warfare Center Weapons Development, China Lake, CA",
+      "area": "Polymer Science and Engineering",
+      "studyType": "Postdoctoral Fellowship",
+     "startDate": "2005",
+      "endDate": "2006",
+      "courses": [
+      ]
+   },
+   {
+      "institution": "University of Southern California, Los Angeles, CA",
+      "area": "Chemistry",
+      "studyType": "Ph.D.",
+     "startDate": "2000",
+      "endDate": "2005",
+     "courses": [
+     ]
+   },
+   {
+      "institution": "University of North Florida, Jacksonville, FL",
+      "area": "Chemistry",
+      "studyType": "B.S.",
+     "startDate": "1993",
+      "endDate": "1997",
+     "courses": [
+     ]
+   },    
   ],
   "work": [
     {
@@ -71,48 +180,58 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "HZO, Inc.",
+      "website": "https://www.hzo.com/",
+      "position": "Director of Materials Science",
+      "startDate": "2020-10-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "SME for coatings, materials, processes, electronics, and more",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+"Serve as an advisor to the Technology division, while stationed in the Marketing & Sales division, helping the Application and Process Engineering teams with root cause failure analysis (RCFA), materials characterization, evaluating competitive coatings, reverse engineering, fixture design and manufacturing, data analysis, new product evaluations with Atomic Layer Deposition (ALD) coatings, and more.", 
+"Lead the Materials Science initiatives in metrology for coating characterization and performance; serve as the Subject Matter Expert (SME) for the organization; drive technical engagements with current and prospective users; and represent the company at technical conferences, with online webinars, and as an invited podcast guest.", 
+"Department head for Materials Science: Managed a group of engineers (regular staff and consultants) focused on metrology for coating characterization and performance, including the selection of material precursors and deposition processes of protective coatings for corrosion mitigation and reliability enhancement of electronic devices.",
+"Develop technical materials for direct and executive interactions with Fortune 50 users.",
+"Spearheaded multiple inventions with published patents and patent applications for advanced coating applications, materials, and processes (the generative design and additive manufacturing of Chemical Vapor Deposition (CVD) coating fixtures for Anti-Reflection (AR) coatings and advanced texturing for infrared and optical sensors; atmospheric CVD coating for continuous processes; superhydrophobic and icephobic surface texturing and coating processes; arc quenching coatings; coating removal processes via laser, plasma etching, thermal, and UV exposure; surface modification processes; multi-layer coatings; functional coating additives; and more)."
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "HZO, Inc.",
+      "website": "https://www.hzo.com/",
+      "position": "Director of Coating Technology",
+      "startDate": "2019-07-01",
+      "endDate": "2020-10-01",
+      "summary": "SME for coatings, materials, processes, electronics, and more",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+"Department head for Coating Technology: Managed engineering staff (regular employees, a variety of consultants, and student interns) focused on developing new and optimizing existing conformal coating materials and processes.", 
+"Managed and performed metrology on coating materials for properties and performance, as well as reliability and qualification testing according to proprietary and customer-specified test methods, as well as ASTM, IPC, JEDEC, MIL, and other industry standards.", 
+"Met and interacted with the IPC and SMTA (electronics manufacturing trade organizations) and participated in cleaning, conformal coatings, corrosion, solder mask, testing, and other standards development committees.
       ]
-    }
+    },
+    {
+      "organization": "HZO, Inc.",
+      "website": "https://www.hzo.com/",
+      "position": "Chemical Engineer",
+      "startDate": "2018-01-01",
+      "endDate": "2019-06-01",
+      "summary": "SME for coatings, materials, processes, electronics, and more",
+      "highlights": [
+"Project lead: Served as a technical resource and the resident SME on coatings and electronics manufacturing industry best practices in cross-functional teams, providing leadership in failure analysis, and customer projects in qualification testing, surface preparation before coating, adhesion promotion, and post-coating surface chemistry modifications.", 
+"Customer-facing engineer for hands-on development of coating evaluations to meet customer specifications, root cause failure analysis, and guidance with product validation testing."
+      ]
+   }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Certificate of Appreciation",
+      "date": "March 2016",
+      "awarder": "SMTA Intermountain Chapter",
+      "summary": "Certificate of Appreciation for speaking at the SMTA Intermountain Chapter Meeting, Draper, UT."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
+      "title": "People’s Choice Awards",
+      "date": "November 2014 and October 2015",
+      "awarder": "HZO, Inc.",
+      "summary": "Awarded by the head of Human Resources and a peer for excellence in teamwork."
     }
   ]
 }
