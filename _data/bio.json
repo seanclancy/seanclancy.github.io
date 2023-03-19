@@ -24,7 +24,7 @@
     { "name": "Materials Characterization, Microscopy, Performance, Property, Root Cause Failure Analysis, Spectroscopy, Surface Analysis, etc." },
     { "name": "Research & Development" },
     { "name": "Technical Writing & Training" },
-    { "name": "Technology Development" },
+    { "name": "Technology Development" }
   ],
   "skills": [
     {
@@ -102,6 +102,7 @@
     {
       "name": "Design and Evaluation: Computer-Aided Design (CAD)",
       "keywords": [ "Autodesk AutoCAD", "Autodesk EAGLE", "Autodesk Fusion 360", "Autodesk Inventor Professional", "Autodesk Tinkercad", "FreeCAD", "Onshape", "OpenSCAD", "Sketchup", "SolidWorks", "Sweet Home 3D" ]
+    },  
     {
       "name": "Additive Manufacturing",
       "keywords": [ "3D Printing Slicer: Prusa Research PrusaSlicer, Ultimaker Cura", "3D Mesh File Processing: MeshLab - 3D Mesh Processing Software", "Photogrammetry & 3D Reconstruction Software: 3Dflow 3DF Zephyr Free, Meshroom (AliceVision)" ]
@@ -112,7 +113,8 @@
     {
       "name": "Analysis and Simulation",
       "keywords": [ "Autodesk CFD", "MathWorks MATLAB & SIMULINK" ]
-    },
+    }
+  ],
   "education": [
    {
       "institution": "University of Delaware, Wilmington, DE",
@@ -149,34 +151,9 @@
       "endDate": "1997",
      "courses": [
      ]
-   },    
+   }    
   ],
   "work": [
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    },
-  "volunteer": [
     {
       "organization": "HZO, Inc.",
       "website": "https://www.hzo.com/",
@@ -185,11 +162,11 @@
       "endDate": "Present",
       "summary": "SME for coatings, materials, processes, electronics, and more",
       "highlights": [
-"Serve as an advisor to the Technology division, while stationed in the Marketing & Sales division, helping the Application and Process Engineering teams with root cause failure analysis (RCFA), materials characterization, evaluating competitive coatings, reverse engineering, fixture design and manufacturing, data analysis, new product evaluations with Atomic Layer Deposition (ALD) coatings, and more.", 
-"Lead the Materials Science initiatives in metrology for coating characterization and performance; serve as the Subject Matter Expert (SME) for the organization; drive technical engagements with current and prospective users; and represent the company at technical conferences, with online webinars, and as an invited podcast guest.", 
-"Department head for Materials Science: Managed a group of engineers (regular staff and consultants) focused on metrology for coating characterization and performance, including the selection of material precursors and deposition processes of protective coatings for corrosion mitigation and reliability enhancement of electronic devices.",
-"Develop technical materials for direct and executive interactions with Fortune 50 users.",
-"Spearheaded multiple inventions with published patents and patent applications for advanced coating applications, materials, and processes (the generative design and additive manufacturing of Chemical Vapor Deposition (CVD) coating fixtures for Anti-Reflection (AR) coatings and advanced texturing for infrared and optical sensors; atmospheric CVD coating for continuous processes; superhydrophobic and icephobic surface texturing and coating processes; arc quenching coatings; coating removal processes via laser, plasma etching, thermal, and UV exposure; surface modification processes; multi-layer coatings; functional coating additives; and more)."
+        "Serve as an advisor to the Technology division, while stationed in the Marketing & Sales division, helping the Application and Process Engineering teams with root cause failure analysis (RCFA), materials characterization, evaluating competitive coatings, reverse engineering, fixture design and manufacturing, data analysis, new product evaluations with Atomic Layer Deposition (ALD) coatings, and more.", 
+        "Lead the Materials Science initiatives in metrology for coating characterization and performance; serve as the Subject Matter Expert (SME) for the organization; drive technical engagements with current and prospective users; and represent the company at technical conferences, with online webinars, and as an invited podcast guest.", 
+        "Department head for Materials Science: Managed a group of engineers (regular staff and consultants) focused on metrology for coating characterization and performance, including the selection of material precursors and deposition processes of protective coatings for corrosion mitigation and reliability enhancement of electronic devices.",
+        "Develop technical materials for direct and executive interactions with Fortune 50 users.",
+        "Spearheaded multiple inventions with published patents and patent applications for advanced coating applications, materials, and processes (the generative design and additive manufacturing of Chemical Vapor Deposition (CVD) coating fixtures for Anti-Reflection (AR) coatings and advanced texturing for infrared and optical sensors; atmospheric CVD coating for continuous processes; superhydrophobic and icephobic surface texturing and coating processes; arc quenching coatings; coating removal processes via laser, plasma etching, thermal, and UV exposure; surface modification processes; multi-layer coatings; functional coating additives; and more)."
       ]
     },
     {
@@ -200,9 +177,9 @@
       "endDate": "2020-10-01",
       "summary": "SME for coatings, materials, processes, electronics, and more",
       "highlights": [
-"Department head for Coating Technology: Managed engineering staff (regular employees, a variety of consultants, and student interns) focused on developing new and optimizing existing conformal coating materials and processes.", 
-"Managed and performed metrology on coating materials for properties and performance, as well as reliability and qualification testing according to proprietary and customer-specified test methods, as well as ASTM, IPC, JEDEC, MIL, and other industry standards.", 
-"Met and interacted with the IPC and SMTA (electronics manufacturing trade organizations) and participated in cleaning, conformal coatings, corrosion, solder mask, testing, and other standards development committees."
+        "Department head for Coating Technology: Managed engineering staff (regular employees, a variety of consultants, and student interns) focused on developing new and optimizing existing conformal coating materials and processes.", 
+        "Managed and performed metrology on coating materials for properties and performance, as well as reliability and qualification testing according to proprietary and customer-specified test methods, as well as ASTM, IPC, JEDEC, MIL, and other industry standards.", 
+        "Met and interacted with the IPC and SMTA (electronics manufacturing trade organizations) and participated in cleaning, conformal coatings, corrosion, solder mask, testing, and other standards development committees."
       ]
     },
     {
@@ -213,8 +190,8 @@
       "endDate": "2019-06-01",
       "summary": "SME for coatings, materials, processes, electronics, and more",
       "highlights": [
-"Project lead: Served as a technical resource and the resident SME on coatings and electronics manufacturing industry best practices in cross-functional teams, providing leadership in failure analysis, and customer projects in qualification testing, surface preparation before coating, adhesion promotion, and post-coating surface chemistry modifications.", 
-"Customer-facing engineer for hands-on development of coating evaluations to meet customer specifications, root cause failure analysis, and guidance with product validation testing."
+        "Project lead: Served as a technical resource and the resident SME on coatings and electronics manufacturing industry best practices in cross-functional teams, providing leadership in failure analysis, and customer projects in qualification testing, surface preparation before coating, adhesion promotion, and post-coating surface chemistry modifications.", 
+        "Customer-facing engineer for hands-on development of coating evaluations to meet customer specifications, root cause failure analysis, and guidance with product validation testing."
       ]
    },
   "awards": [
@@ -228,5 +205,7 @@
       "title": "People’s Choice Awards",
       "date": "November 2014 and October 2015",
       "awarder": "HZO, Inc.",
-      "summary": "Awarded by the head of Human Resources and a peer for excellence in teamwork."
+      "summary": "Awarded by the head of Human Resources and a peer for excellence in teamwork, Draper, UT."
     }
+  ]
+]
