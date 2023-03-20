@@ -173,7 +173,130 @@
 }
   ],
 
-  "skills": [
+   "awards": [
+    {
+      "type": "award",
+      "title": "Certificate of Appreciation",
+      "date": "March 2016",
+      "awarder": "Surface Mount Technology Association (SMTA) Intermountain Chapter",
+      "summary": "Certificate of Appreciation for speaking at the SMTA Intermountain Chapter Meeting, Draper, UT."
+    },
+    {
+      "type": "award",
+      "title": "People’s Choice Award",
+      "date": "October 2015",
+      "awarder": "HZO, Inc.",
+      "summary": "Awarded by a peer for excellence in teamwork, Draper, UT."
+    },
+    {
+      "type": "award",
+      "title": "People’s Choice Award",
+      "date": "November 2014",
+      "awarder": "HZO, Inc.",
+      "summary": "Awarded by the head of Human Resources for excellence in teamwork, Draper, UT."
+    },
+    {
+      "type": "award",
+      "title": "Five Years of Service Award",
+      "date": "December 2013",
+      "awarder": "ACI Technologies, Inc.",
+      "summary": ""
+    },
+    {
+      "type": "award",
+      "title": "Invited Panelist",
+      "date": "May 2010",
+      "awarder": "Nano for Business Conference",
+      "summary": "Invited to discuss Nanotechnology Health and Safety at the Nano for Business 2010 Conference at Lehigh University, Bethlehem, PA."
+    },
+    {
+      "type": "fellowship",
+      "title": "Postdoctoral Fellowship",
+      "date": "February 2005 to May 2006",
+      "awarder": "American Society for Engineering Education (ASEE) and Naval Research Laboratory (NRL)",
+      "summary": "Awarded for a proposal on the synthesis and computational chemistry of soluble electron deficient (n-type) conjugated polymers for charge storage applications."
+    },
+    {
+      "type": "fellowship",
+      "title": "Research Assistantship",
+      "date": "2000 to 2005",
+      "awarder": "University of Southern California",
+      "summary": "Awarded for showing successful progress during my graduate studies."
+    },
+    {
+      "type": "fellowship",
+      "title": "Benson Endowed Fellowship",
+      "date": "2003 to 2005",
+      "awarder": "University of Southern California",
+      "summary": ""
+    },
+    {
+      "type": "fellowship",
+      "title": "Harold E. Moulton Graduate Fellowship",
+      "date": "2004",
+      "awarder": "University of Southern California",
+      "summary": ""
+    },
+    {
+      "type": "fellowship",
+      "title": "Beckman Foundation Research Fellowship",
+      "date": "2000 to 2002",
+      "awarder": "University of Southern California",
+      "summary": ""
+    },
+    {
+      "type": "award",
+      "title": "Above and Beyond Employee Recognition",
+      "date": "1997",
+      "awarder": "Mayo Clinic",
+      "summary": "Awarded for successful anti-sense (RNA-binding) and anti-gene (DNA-binding) experiments using the peptide nucleic acid (PNA) sequences that I synthesized."
+    },
+    {
+      "type": "award",
+      "title": "Dean's List",
+      "date": "1997",
+      "awarder": "University of North Florida",
+      "summary": ""
+    },
+    {
+      "type": "award",
+      "title": "University Honors Program",
+      "date": "1993 to 1997",
+      "awarder": "University of North Florida",
+      "summary": ""
+    },
+    {
+      "type": "award",
+      "title": "Advanced Placement (AP) Scholar",
+      "date": "1993",
+      "awarder": "Stanton College Preparatory School",
+      "summary": ""
+    },
+    {
+      "type": "award",
+      "title": "International Baccalaureate (IB) Program Certificate",
+      "date": "1993",
+      "awarder": "Stanton College Preparatory School",
+      "summary": ""
+    }
+    ],
+
+    "certificates": [
+      {
+        "name": "Certified IPC Specialist - IPC-A-600 - Acceptability of Printed Boards",
+        "issuer": "IPC",
+        "endDate": "2015-06-30",
+        "startDate": "2013-06-30"
+      },
+      {
+        "name": "Amateur Radio Operator License, Technician Class",
+        "issuer": "Federal Communications Commission",
+        "endDate": "2027-04-30",
+        "startDate": "1997-04-30"
+      }
+    ],
+
+   "skills": [
     {
       "name": "Cleanliness Testing and Residue Analysis",
       "keywords": [ "Fourier Transform Infrared (FTIR) Spectroscopy", "Ion Chromatography (IC)", "Resistivity of Solvent Extract (ROSE)", "Scanning Electron Microscopy - Energy Dispersive X-Ray Spectroscopy (SEM-EDS)" ]
@@ -263,149 +386,6 @@
     }
   ],
 
-  "awards": [
-    {
-      "type": "award",
-      "title": "Certificate of Appreciation",
-      "date": "March 2016",
-      "awarder": "SMTA Intermountain Chapter",
-      "summary": "Certificate of Appreciation for speaking at the SMTA Intermountain Chapter Meeting, Draper, UT."
-    },
-    {
-      "type": "award",
-      "title": "People’s Choice Award",
-      "date": "October 2015",
-      "awarder": "HZO, Inc.",
-      "summary": "Awarded by a peer for excellence in teamwork, Draper, UT."
-    },
-    {
-      "type": "award",
-      "title": "People’s Choice Award",
-      "date": "November 2014",
-      "awarder": "HZO, Inc.",
-      "summary": "Awarded by the head of Human Resources for excellence in teamwork, Draper, UT."
-    },
-    {
-      "type": "award",
-      "title": "Five Years of Service Award",
-      "date": "December 2013",
-      "awarder": "ACI Technologies, Inc.",
-      "summary": ""
-    },
-    {
-      "type": "award",
-      "title": "Invited Panelist",
-      "date": "May 2010",
-      "awarder": "Nano for Business Conference",
-      "summary": "Invited to discuss Nanotechnology Health and Safety at the Nano for Business 2010 Conference at Lehigh University, Bethlehem, PA."
-    },
-    {
-      "type": "fellowship",
-      "title": "American Society for Engineering Education (ASEE) and Naval Research Laboratory (NRL) Postdoctoral Fellowship",
-      "date": "February 2005 to May 2006",
-      "awarder": "American Society for Engineering Education (ASEE)",
-      "summary": "Awarded for a proposal on the synthesis and computational chemistry of soluble electron deficient (n-type) conjugated polymers for charge storage applications."
-    },
-    {
-      "type": "fellowship",
-      "title": "Research Assistantship",
-      "date": "2000 to 2005",
-      "awarder": "University of Southern California",
-      "summary": "Awarded for showing successful progress during my graduate studies."
-    },
-    {
-      "type": "fellowship",
-      "title": "Benson Endowed Fellowship",
-      "date": "2003 to 2005",
-      "awarder": "University of Southern California",
-      "summary": ""
-    },
-    {
-      "type": "fellowship",
-      "title": "Harold E. Moulton Graduate Fellowship",
-      "date": "2004",
-      "awarder": "University of Southern California",
-      "summary": ""
-    },
-    {
-      "type": "fellowship",
-      "title": "Beckman Foundation Research Fellowship",
-      "date": "2000 to 2002",
-      "awarder": "University of Southern California",
-      "summary": ""
-    },
-    {
-      "type": "award",
-      "title": "Above and Beyond Employee Recognition",
-      "date": "1997",
-      "awarder": "Mayo Clinic",
-      "summary": "Awarded for successful anti-sense (RNA-binding) and anti-gene (DNA-binding) experiments using the peptide nucleic acid (PNA) sequences that I synthesized."
-    },
-    {
-      "type": "award",
-      "title": "Dean's List",
-      "date": "1997",
-      "awarder": "University of North Florida",
-      "summary": ""
-    },
-    {
-      "type": "award",
-      "title": "University Honors Program",
-      "date": "1993 to 1997",
-      "awarder": "University of North Florida",
-      "summary": ""
-    },
-    {
-      "type": "award",
-      "title": "Advanced Placement (AP) Scholar",
-      "date": "1993",
-      "awarder": "Stanton College Preparatory School",
-      "summary": ""
-    },
-    {
-      "type": "award",
-      "title": "International Baccalaureate (IB) Program Certificate",
-      "date": "1993",
-      "awarder": "Stanton College Preparatory School",
-      "summary": ""
-    }
-    ],
-
-    "certificates": [
-      {
-        "name": "Certified IPC Specialist - IPC-A-600 - Acceptability of Printed Boards",
-        "issuer": "IPC",
-        "endDate": "2015-06-30",
-        "startDate": "2013-06-30"
-      },
-      {
-        "name": "Amateur Radio Operator License, Technician Class",
-        "issuer": "Federal Communications Commission",
-        "endDate": "2027-04-30",
-        "startDate": "1997-04-30"
-      }
-    ],
-
-  "volunteer": [
-    {
-      "position": "Social Services Volunteer",
-      "summary": "",
-      "highlights": [
-        "Produce Sorter, Food Bank of Central & Eastern NC, As part of ActivateGood's 9/11 Day of Service, I helped the food bank by sorting large pallets of sweet potatoes and disposing of damaged and expired goods. September 2019",
-        "Dry Goods Repackager, Utah Food Bank, Volunteered at the food bank to help repackage dry goods. November 2015",
-        "Soccer Goal Monitor, Special Olympics Utah, Volunteered at the soccer field to help keep the game in motion and players involved. June 2015",
-        "Dry Goods Repackager, Utah Food Bank, Volunteered at the food bank to help repackage dry goods. November 2014",
-        "Trail Maintainer, Draper Parks & Recreation Department, Volunteered with the parks department to help clear brush and clean up the Potato Hill walking and mountain biking trail in Draper, UT. June 2014"
-      ]
-    },
-    {
-      "position": "Animal Welfare Volunteer",
-      "summary": "",
-      "highlights": [
-        "Digital Marketing, Pet Integrity, Assisted with website redesign and digital photography for a no-kill animal shelter in Ridgecrest, CA. April 2005 to May 2006"
-      ]
-    }
-  ],
   "publications": [
      {
       "name": "Behind closed doors: what you don’t know about your CVD chamber.",
@@ -658,6 +638,27 @@
       "releaseDate": "2003",
       "summary": "",
       "url": "https://www.seanclancy.org/files/usc-spie.pdf"
+    }
+  ],
+  
+    "volunteer": [
+    {
+      "position": "Social Services Volunteer",
+      "summary": "",
+      "highlights": [
+        "Produce Sorter, Food Bank of Central & Eastern NC, As part of ActivateGood's 9/11 Day of Service, I helped the food bank by sorting large pallets of sweet potatoes and disposing of damaged and expired goods. September 2019",
+        "Dry Goods Repackager, Utah Food Bank, Volunteered at the food bank to help repackage dry goods. November 2015",
+        "Soccer Goal Monitor, Special Olympics Utah, Volunteered at the soccer field to help keep the game in motion and players involved. June 2015",
+        "Dry Goods Repackager, Utah Food Bank, Volunteered at the food bank to help repackage dry goods. November 2014",
+        "Trail Maintainer, Draper Parks & Recreation Department, Volunteered with the parks department to help clear brush and clean up the Potato Hill walking and mountain biking trail in Draper, UT. June 2014"
+      ]
+    },
+    {
+      "position": "Animal Welfare Volunteer",
+      "summary": "",
+      "highlights": [
+        "Digital Marketing, Pet Integrity, Assisted with website redesign and digital photography for a no-kill animal shelter in Ridgecrest, CA. April 2005 to May 2006"
+      ]
     }
   ]
 }
