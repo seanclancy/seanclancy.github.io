@@ -9,23 +9,170 @@
     "summary": "I’m passionate about science, technology, community, and family. Working hard isn’t enough, you also have to be flexible, innovative, and ethical. That’s what will makes me a valuable member of organizations, as well as being a good friend. I have strong technical skills and hands-on experience in creating or modifying existing products and processes using analytical, synthetic organic, and polymer chemistry, as well as materials science and engineering. I’ve helped develop and qualify existing and new materials and manufacturing processes, as well as figured things out when issues arose and how to get a manufacturing line up and running again. Besides science and technology, I have experience in project management, technical writing, communications, and marketing. Outside of chemistry and the sciences, I enjoy the culinary arts, drawing, photography, reading, gaming, web design, and working with computers.",
     "location": { "address": "", "postalCode": "", "city": "", "countryCode": "USA", "region": "" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/seanclancy" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/seanclancy" }
+      { "network": "github", "username": "mmaluhia", "url": "https://github.com/seanclancy" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "https://linkedin.com/in/seanclancy" }
     ]
   },
+  
   "interests": [
     { "name": "Additive Manufacturing (3D Printing)" },
-    { "name": "Analytical, Organic, Physical, and Polymer Chemistry" },
-    { "name": "Business Development & Value Creation" },
-    { "name": "Chemical, Materials, Mechanical, Optical, Physical, and Instrumental Analysis" },
-    { "name": "Coatings: Anti-Corrosion, Barrier (Chemical, Dielectric, Gas, Oxygen, Moisture, Physical, Solvent, etc.), Functional (Anti-Reflection, Charge Storage, Chemical Sensing, Optical, etc.)" },
-    { "name": "Management: Laboratory, Multidisciplinary Teams, People, Project, Program, etc." },
-    { "name": "Materials & Process Development" },
-    { "name": "Materials Characterization, Microscopy, Performance, Property, Root Cause Failure Analysis, Spectroscopy, Surface Analysis, etc." },
-    { "name": "Research & Development" },
-    { "name": "Technical Writing & Training" },
-    { "name": "Technology Development" }
+    { "name": "Chemistry and Materials Science" },
+    { "name": "Barriers, Coatings, Packaging, and Films" },
+    { "name": "Characterization Methods for the Performance and Properties of Materials" },
+    { "name": "Computers and Technology" }
   ],
+
+  "education": [
+   {
+      "institution": "University of Delaware, Wilmington, DE",
+      "area": "Project Management",
+      "studyType": "Professional Certificate",
+      "endDate": "2010",
+      "courses": []
+   },
+   {
+      "institution": "Naval Air Warfare Center Weapons Development, China Lake, CA",
+      "area": "Polymer Science and Engineering",
+      "studyType": "Postdoctoral Fellowship",
+      "endDate": "2006",
+      "courses": []
+   },
+   {
+      "institution": "University of Southern California, Los Angeles, CA",
+      "area": "Chemistry",
+      "studyType": "Ph.D.",
+      "endDate": "2005",
+      "courses": []
+   },
+   {
+      "institution": "University of North Florida, Jacksonville, FL",
+      "area": "Chemistry",
+      "studyType": "B.S.",
+      "endDate": "1997",
+      "courses": []
+   }    
+  ],
+
+  "work": [
+    {
+      "organization": "HZO, Inc.",
+      "website": "https://www.hzo.com/",
+      "position": "Director of Materials Science",
+      "startDate": "2014-04-01",
+      "endDate": "Present",
+      "summary": "Subject matter expert (SME) for coatings and electronics manufacturing materials and processes",
+      "highlights": [
+        "Director of Materials Science, 2020-Present",
+        "Director of Coating Technology, 2019-2020",
+        "Chemical Engineer, 2018-2019",
+        "Chemist and Project Manager, 2014-2016"
+    ]
+   },
+    {
+      "organization": "The University of Utah",
+      "website": "https://www.utah.edu/",
+      "position": "Adjunct Professor",
+      "startDate": "2017-04-01",
+      "endDate": "Present",
+      "summary": "Serve as an advisor to faculty, students, and the Materials CharacterizationLab (MCL) in the Department of Materials Science and Engineering (MSE).",
+      "highlights": [
+        "Adjunct Professor, 2018-Present",
+        "Associate Director & Program Manager, Materials Characterization Laboratory, 2017-2018"
+    ]
+   },
+    {
+      "organization": "Clancy & Associates Technical Services LLC",
+      "website": "https://www.clancy.tech/",
+      "position": "CEO, Co-Founder, and Principal Consultant",
+      "startDate": "2016-10-01",
+      "endDate": "2019-07-01",
+      "summary": "Served clients in the defense, electronics conformal coating, coatingprecursor supplier, and the oil and gas pipeline inspection services markets.",
+      "highlights": [
+        "Provided consulting services in the STEAM fields (science, technology,engineering, arts, and mathematics) with practical solutions to development,manufacturing, and process issues, as well as advice, instrumental analysis,teaching materials, and training services."
+    ]
+   },
+    {
+      "organization": "ACI Technologies, Inc.",
+      "website": "https://www.aciusa.org/",
+      "position": "Research Associate/Chemist",
+      "startDate": "2008-05-01",
+      "endDate": "2014-01-01",
+      "summary": "Managed high-value projects in electronics manufacturing for the US Navy, delivered training courses, provided laboratory services, and wrote technical publications.",
+      "highlights": [
+        "Managed high-value projects in electronics manufacturing for the US Navy and managed laboratory services for commercial customers, which included building and managing diverse, multidisciplinary teams, coordinating and planning analyses, and developing and selecting test methods in an ISO 9001 Quality System registered facility, and according to ASTM, IPC, JEDEC, MIL,and other standards.",
+        "Delivered over 250 project reports with greater than $550k in commercial sales. Assisted on more than 300 other projects with planning, execution, and peer review for an additional $600k in sales.",
+        "Wrote eleven articles for EMPFasis, a publication of the Electronics Manufacturing Productivity Facility (EMPF), of which two were republished in Printed Circuit Design & Fab/Circuits Assembly: The Journal of Surface Mountand Electronics Assembly.",
+        "Wrote “Failure analysis techniques for electronics” instructional and technicalmarketing book with a case studies companion presentation for commercialservices and professional skills training courses. * Updated curriculum and delivered instruction for professional skills trainingcourses: Failure Analysis and Reliability Testing in Electronics and ElectronicsManufacturing Boot Camps."
+    ]
+   },
+   {
+    "organization": "NanoSelect, Inc.",
+    "position": "Staff Scientist",
+    "startDate": "2006-05-01",
+    "endDate": "2008-03-01",
+    "summary": "Developed small molecule and polymer coatings for carbon nanotubes (CNTs) and other electrodes on integrated circuits (ICs) for electrochemical sensors.",
+    "highlights": [
+      "Evaluated ion-sensitive field effect transistor (ISFET) devices as sensors and determined the root cause of a 50% failure rate for ISFETs by examining the CAD data and found errors in the silicon design, leading to a Corrective and Preventative Action (CAPA) for the following Metal Oxide Semiconductor Implementation Service (MOSIS) run.", 
+      "Assisted materials engineers with thermal-chemical vapor deposition (TCVD) and plasma enhanced-CVD (PE-CVD) growth of CNTs, initiated-CVD (iCVD) growth of polymer films, as well as supercritical carbon dioxide (scCO2) fluid infusion processes."
+  ]
+   },
+   {
+    "organization": "Naval Air Warfare Center Weapons Division (NAWCWD)",
+    "website": "https://www.navair.navy.mil/nawcwd/",
+    "position": "ASEE Fellow / Postdoctoral Researcher",
+    "startDate": "2005-02-01",
+    "endDate": "2006-05-01",
+    "summary": "Developed conjugated polymers and deposition processes for charge storage applications.",
+    "highlights": [
+      "Published a project in the peer-reviewed Journal of the Electrochemical Society 2007, 154 (4), G95-G98."
+  ]
+},
+{
+  "organization": "The University of Southern California",
+  "website": "https://www.usc.edu/",
+  "position": "Graduate Research Assistant",
+  "startDate": "2000-08-01",
+  "endDate": "2005-02-01",
+  "summary": "Developed conjugated polymers, ligands, and lanthanide complexes for energy transfer studies and optical applications.",
+  "highlights": [
+    "Published multiple projects in the MRS, PMSE, and SPIE proceedings.",
+    "Presented project results at MRS and SPIE conferences."
+]
+},
+{
+  "organization": "Texas A&M University",
+  "website": "https://www.tamu.edu/",
+  "position": "Graduate Research Assistant",
+  "startDate": "1999-08-01",
+  "endDate": "2000-08-01",
+  "summary": "Developed conjugated polymers, ligands, and lanthanide complexes for energy transfer studies and optical applications.",
+  "highlights": [
+    "Moved with graduate research advisor from TAMU to USC."
+]
+},
+{
+  "organization": "Mayo Clinic",
+  "website": "https://www.mayoclinic.org/",
+  "position": "Research Technologist",
+  "startDate": "1997-07-01",
+  "endDate": "1999-08-01",
+  "summary": "Developed many small molecule compounds and peptide nucleic acid (PNA) sequences in collaboration with molecular biology and neuroscience research groups.",
+  "highlights": [
+    "Contributed to efforts that led to multiple publications for the primary investigators and their groups.",
+    "Compounds served as diagnostic tools and therapeutic candidates for muscular and neurodegenerative diseases."
+]
+},
+{
+  "organization": "Winn-Dixie",
+  "website": "https://www.winndixie.com/",
+  "position": "Pharmacy Technician",
+  "startDate": "1992-12-01",
+  "endDate": "1997-07-01",
+  "summary": "Assisted pharmacists in the filling of prescriptions, along with instructing, operating, and providing support for a UNIX-based prescription filling system.",
+  "highlights": []
+}
+  ],
+
   "skills": [
     {
       "name": "Cleanliness Testing and Residue Analysis",
@@ -115,98 +262,402 @@
       "keywords": [ "Autodesk CFD", "MathWorks MATLAB & SIMULINK" ]
     }
   ],
-  "education": [
-   {
-      "institution": "University of Delaware, Wilmington, DE",
-      "area": "Project Management",
-      "studyType": "Professional Certificate",
-      "startDate": "2010",
-      "endDate": "2010",
-      "courses": [
-      ]
-   },
-   {
-      "institution": "Naval Air Warfare Center Weapons Development, China Lake, CA",
-      "area": "Polymer Science and Engineering",
-      "studyType": "Postdoctoral Fellowship",
-      "startDate": "2005",
-      "endDate": "2006",
-      "courses": [
-      ]
-   },
-   {
-      "institution": "University of Southern California, Los Angeles, CA",
-      "area": "Chemistry",
-      "studyType": "Ph.D.",
-      "startDate": "2000",
-      "endDate": "2005",
-      "courses": [
-     ]
-   },
-   {
-      "institution": "University of North Florida, Jacksonville, FL",
-      "area": "Chemistry",
-      "studyType": "B.S.",
-      "startDate": "1993",
-      "endDate": "1997",
-      "courses": [
-     ]
-   }    
-  ],
-  "work": [
-    {
-      "organization": "HZO, Inc.",
-      "website": "https://www.hzo.com/",
-      "position": "Director of Materials Science",
-      "startDate": "2020-10-01",
-      "endDate": "Present",
-      "summary": "SME for coatings, materials, processes, electronics, and more",
-      "highlights": [
-        "Serve as an advisor to the Technology division, while stationed in the Marketing & Sales division, helping the Application and Process Engineering teams with root cause failure analysis (RCFA), materials characterization, evaluating competitive coatings, reverse engineering, fixture design and manufacturing, data analysis, new product evaluations with Atomic Layer Deposition (ALD) coatings, and more.", 
-        "Lead the Materials Science initiatives in metrology for coating characterization and performance; serve as the Subject Matter Expert (SME) for the organization; drive technical engagements with current and prospective users; and represent the company at technical conferences, with online webinars, and as an invited podcast guest.", 
-        "Department head for Materials Science: Managed a group of engineers (regular staff and consultants) focused on metrology for coating characterization and performance, including the selection of material precursors and deposition processes of protective coatings for corrosion mitigation and reliability enhancement of electronic devices.",
-        "Develop technical materials for direct and executive interactions with Fortune 50 users.",
-        "Spearheaded multiple inventions with published patents and patent applications for advanced coating applications, materials, and processes (the generative design and additive manufacturing of Chemical Vapor Deposition (CVD) coating fixtures for Anti-Reflection (AR) coatings and advanced texturing for infrared and optical sensors; atmospheric CVD coating for continuous processes; superhydrophobic and icephobic surface texturing and coating processes; arc quenching coatings; coating removal processes via laser, plasma etching, thermal, and UV exposure; surface modification processes; multi-layer coatings; functional coating additives; and more)."
-      ]
-    },
-    {
-      "organization": "HZO, Inc.",
-      "website": "https://www.hzo.com/",
-      "position": "Director of Coating Technology",
-      "startDate": "2019-07-01",
-      "endDate": "2020-10-01",
-      "summary": "SME for coatings, materials, processes, electronics, and more",
-      "highlights": [
-        "Department head for Coating Technology: Managed engineering staff (regular employees, a variety of consultants, and student interns) focused on developing new and optimizing existing conformal coating materials and processes.", 
-        "Managed and performed metrology on coating materials for properties and performance, as well as reliability and qualification testing according to proprietary and customer-specified test methods, as well as ASTM, IPC, JEDEC, MIL, and other industry standards.", 
-        "Met and interacted with the IPC and SMTA (electronics manufacturing trade organizations) and participated in cleaning, conformal coatings, corrosion, solder mask, testing, and other standards development committees."
-      ]
-    },
-    {
-      "organization": "HZO, Inc.",
-      "website": "https://www.hzo.com/",
-      "position": "Chemical Engineer",
-      "startDate": "2018-01-01",
-      "endDate": "2019-06-01",
-      "summary": "SME for coatings, materials, processes, electronics, and more",
-      "highlights": [
-        "Project lead: Served as a technical resource and the resident SME on coatings and electronics manufacturing industry best practices in cross-functional teams, providing leadership in failure analysis, and customer projects in qualification testing, surface preparation before coating, adhesion promotion, and post-coating surface chemistry modifications.", 
-        "Customer-facing engineer for hands-on development of coating evaluations to meet customer specifications, root cause failure analysis, and guidance with product validation testing."
-      ]
-   }
-   {
+
   "awards": [
     {
+      "type": "award",
       "title": "Certificate of Appreciation",
       "date": "March 2016",
       "awarder": "SMTA Intermountain Chapter",
       "summary": "Certificate of Appreciation for speaking at the SMTA Intermountain Chapter Meeting, Draper, UT."
     },
     {
-      "title": "People’s Choice Awards",
-      "date": "November 2014 and October 2015",
+      "type": "award",
+      "title": "People’s Choice Award",
+      "date": "October 2015",
       "awarder": "HZO, Inc.",
-      "summary": "Awarded by the head of Human Resources and a peer for excellence in teamwork, Draper, UT."
+      "summary": "Awarded by a peer for excellence in teamwork, Draper, UT."
+    },
+    {
+      "type": "award",
+      "title": "People’s Choice Award",
+      "date": "November 2014",
+      "awarder": "HZO, Inc.",
+      "summary": "Awarded by the head of Human Resources for excellence in teamwork, Draper, UT."
+    },
+    {
+      "type": "award",
+      "title": "Five Years of Service Award",
+      "date": "December 2013",
+      "awarder": "ACI Technologies, Inc.",
+      "summary": ""
+    },
+    {
+      "type": "award",
+      "title": "Invited Panelist",
+      "date": "May 2010",
+      "awarder": "Nano for Business Conference",
+      "summary": "Invited to discuss Nanotechnology Health and Safety at the Nano for Business 2010 Conference at Lehigh University, Bethlehem, PA."
+    },
+    {
+      "type": "fellowship",
+      "title": "American Society for Engineering Education (ASEE) and Naval Research Laboratory (NRL) Postdoctoral Fellowship",
+      "date": "February 2005 to May 2006",
+      "awarder": "American Society for Engineering Education (ASEE)",
+      "summary": "Awarded for a proposal on the synthesis and computational chemistry of soluble electron deficient (n-type) conjugated polymers for charge storage applications."
+    },
+    {
+      "type": "fellowship",
+      "title": "Research Assistantship",
+      "date": "2000 to 2005",
+      "awarder": "University of Southern California",
+      "summary": "Awarded for showing successful progress during my graduate studies."
+    },
+    {
+      "type": "fellowship",
+      "title": "Benson Endowed Fellowship",
+      "date": "2003 to 2005",
+      "awarder": "University of Southern California",
+      "summary": ""
+    },
+    {
+      "type": "fellowship",
+      "title": "Harold E. Moulton Graduate Fellowship",
+      "date": "2004",
+      "awarder": "University of Southern California",
+      "summary": ""
+    },
+    {
+      "type": "fellowship",
+      "title": "Beckman Foundation Research Fellowship",
+      "date": "2000 to 2002",
+      "awarder": "University of Southern California",
+      "summary": ""
+    },
+    {
+      "type": "award",
+      "title": "Above and Beyond Employee Recognition",
+      "date": "1997",
+      "awarder": "Mayo Clinic",
+      "summary": "Awarded for successful anti-sense (RNA-binding) and anti-gene (DNA-binding) experiments using the peptide nucleic acid (PNA) sequences that I synthesized."
+    },
+    {
+      "type": "award",
+      "title": "Dean's List",
+      "date": "1997",
+      "awarder": "University of North Florida",
+      "summary": ""
+    },
+    {
+      "type": "award",
+      "title": "University Honors Program",
+      "date": "1993 to 1997",
+      "awarder": "University of North Florida",
+      "summary": ""
+    },
+    {
+      "type": "award",
+      "title": "Advanced Placement (AP) Scholar",
+      "date": "1993",
+      "awarder": "Stanton College Preparatory School",
+      "summary": ""
+    },
+    {
+      "type": "award",
+      "title": "International Baccalaureate (IB) Program Certificate",
+      "date": "1993",
+      "awarder": "Stanton College Preparatory School",
+      "summary": ""
     }
-    ]
-   }
+    ],
+
+    "certificates": [
+      {
+        "name": "Certified IPC Specialist - IPC-A-600 - Acceptability of Printed Boards",
+        "issuer": "IPC",
+        "endDate": "2015-06-30",
+        "startDate": "2013-06-30"
+      },
+      {
+        "name": "Amateur Radio Operator License, Technician Class",
+        "issuer": "Federal Communications Commission",
+        "endDate": "2027-04-30",
+        "startDate": "1997-04-30"
+      }
+    ],
+
+  "volunteer": [
+    {
+      "position": "Social Services Volunteer",
+      "summary": "",
+      "highlights": [
+        "Produce Sorter, Food Bank of Central & Eastern NC, As part of ActivateGood's 9/11 Day of Service, I helped the food bank by sorting large pallets of sweet potatoes and disposing of damaged and expired goods. September 2019",
+        "Dry Goods Repackager, Utah Food Bank, Volunteered at the food bank to help repackage dry goods. November 2015",
+        "Soccer Goal Monitor, Special Olympics Utah, Volunteered at the soccer field to help keep the game in motion and players involved. June 2015",
+        "Dry Goods Repackager, Utah Food Bank, Volunteered at the food bank to help repackage dry goods. November 2014",
+        "Trail Maintainer, Draper Parks & Recreation Department, Volunteered with the parks department to help clear brush and clean up the Potato Hill walking and mountain biking trail in Draper, UT. June 2014"
+      ]
+    },
+    {
+      "position": "Animal Welfare Volunteer",
+      "summary": "",
+      "highlights": [
+        "Digital Marketing, Pet Integrity, Assisted with website redesign and digital photography for a no-kill animal shelter in Ridgecrest, CA. April 2005 to May 2006"
+      ]
+    }
+  ],
+  "publications": [
+     {
+      "name": "Behind closed doors: what you don’t know about your CVD chamber.",
+      "type": "conference",
+      "author": "Sean O. Clancy and Robert E. Askin",
+      "publisher": "IPC APEX EXPO 2022 Conference Technical Proceedings",
+      "releaseDate": "January, 2022",
+      "summary": "",
+      "url": "https://www.seanclancy.org/wp-content/uploads/2022/02/Clancy_HZO_IPC_APEX_2022_Paper_and_Presentation.pdf"
+     },
+     {
+      "name": "Parylene Chemical Properties: Product Protection That May Surprise You.",
+      "type": "guest-blog",
+      "author": "Sean O. Clancy and Melissa L. Clancy",
+      "publisher": "VSI Parylene",
+      "releaseDate": "26 April, 2018",
+      "summary": "",
+      "url": "https://vsiparylene.com/parylene-chemical-properties/"
+     },
+     {
+      "name": "Parylene Optical Properties: Why Your Competitors See Parylene In a New Light.",
+      "type": "guest-blog",
+      "author": "Sean O. Clancy and Melissa L. Clancy",
+      "publisher": "VSI Parylene",
+      "releaseDate": "6 April, 2018",
+      "summary": "",
+      "url": "https://vsiparylene.com/parylene-optical-properties/"
+     },
+     {
+       "name": "Parylene Biocompatibility: It Does A Body Good.",
+       "type": "guest-blog",
+       "author": "Sean O. Clancy and Melissa L. Clancy",
+       "publisher": "VSI Parylene",
+       "releaseDate": "7 March, 2018",
+       "summary": "",
+       "url": "https://vsiparylene.com/parylene-biocompatibility/"
+     },
+     {
+       "name": "Parylene Electric Properties: How Parylene Protects Sensitive Elements.",
+       "type": "guest-blog",
+       "author": "Sean O. Clancy and Melissa L. Clancy",
+       "publisher": "VSI Parylene",
+       "releaseDate": "14 February, 2018",
+       "summary": "",
+       "url": "https://vsiparylene.com/parylene-electric-properties/"
+     },
+     {
+       "name": "Parylene Thermal Properties: How Temperature Extremes Affect Parylene.",
+       "type": "guest-blog",
+       "author": "Sean O. Clancy and Melissa L. Clancy",
+       "publisher": "VSI Parylene",
+       "releaseDate": "23 January, 2018",
+       "summary": "",
+       "url": "https://vsiparylene.com/parylene-thermal-properties/"
+     },
+     {
+       "name": "Parylene Thickness: When A Little Goes A Long Way.",
+       "type": "guest-blog",
+       "author": "Sean O. Clancy and Melissa L. Clancy",
+       "publisher": "VSI Parylene",
+       "releaseDate": "29 December, 2017",
+       "summary": "",
+       "url": "https://vsiparylene.com/parylene-thickness/"
+     },
+     {
+       "name": "Parylene Barrier Properties: Why Aren’t All My Electronics Waterproof?",
+       "type": "guest-blog",
+       "author": "Sean O. Clancy and Melissa L. Clancy",
+       "publisher": "VSI Parylene",
+       "releaseDate": "12 December, 2017",
+       "summary": "",
+       "url": "https://vsiparylene.com/parylene-electronics-waterproof/"
+     },
+     {
+       "name": "Your Devices Aren’t as Protected as You Think Without Corrosion Resistant Coatings.",
+       "type": "guest-blog",
+       "author": "Sean O. Clancy and Melissa L. Clancy",
+       "publisher": "VSI Parylene",
+       "releaseDate": "19 October, 2017",
+       "summary": "",
+       "url": "https://vsiparylene.com/parylene-coating-for-corrosion-protection/"
+     },
+     {
+      "name": "Competitive analysis of Parylene coatings based on metrology",
+      "type": "article",
+      "author": "Sean O. Clancy",
+      "publisher": "Printed Circuit Design & Fab/Circuits Assembly",
+      "releaseDate": "November, 2015",
+      "summary": "",
+      "url": "https://www.seanclancy.org/wp-content/uploads/2016/04/Circuits-Assembly-11-2015.pdf"
+    },
+    {
+      "name": "Atomic layer deposition (ALD) successfully used as a conformal coating for radar components",
+      "type": "article",
+      "author": "Sean O. Clancy",
+      "publisher": "EMPFasis: A publication of the National Electronics Manufacturing Technology Center of Excellence.",
+      "releaseDate": "December, 2013",
+      "summary": "Credited only as ACI Technologies.",
+      "url": "https://www.seanclancy.org/wp-content/uploads/2005/06/empfasis_2013_V3N4.pdf"
+    },
+    {
+      "name": "New conductive epoxy resin leads to cost reduction of RF tuner systems for JSF",
+      "type": "article",
+      "author": "Sean O. Clancy",
+      "publisher": "EMPFasis: A publication of the National Electronics Manufacturing Technology Center of Excellence.",
+      "releaseDate": "June, 2013",
+      "summary": "",
+      "url": "https://www.seanclancy.org/wp-content/uploads/2005/06/empfasis_2013_V3N2.pdf"
+    },
+    {
+      "name": "Technical data package recommendations for open architecture electronics manufacturing",
+      "type": "article",
+      "author": "Sean O. Clancy",
+      "publisher": "EMPFasis: A publication of the National Electronics Manufacturing Technology Center of Excellence.",
+      "releaseDate": "December, 2012",
+      "summary": "",
+      "url": "https://www.seanclancy.org/wp-content/uploads/2005/06/empfasis_2012_V1N1.pdf"
+    },
+    {
+      "name": "Failure analysis techniques for electronics",
+      "type": "book",
+      "author": "Sean O. Clancy",
+      "publisher": "ACI Technologies, Inc.",
+      "releaseDate": "January, 2012",
+      "summary": "Failure Analysis Techniques for Electronics provides an overview of the characterization methods available at ACI Technologies, Inc. for determining the causes of failure in electronics devices. \n \nThis publication will assist the reader in making informed decisions when troubleshooting a manufacturing problem and/or collaborating with an analytical laboratory. The proper selection of the appropriate test methods will help to identify the process conditions that lead to less than desirable issues and in turn assist in delivering a quality product.",
+      "url": "https://www.seanclancy.org/files/FA_Techniques_low-res.pdf"
+    },
+    {
+      "name": "Reworking ALD coatings",
+      "type": "article",
+      "author": "Sean O. Clancy",
+      "publisher": "EMPFasis: A publication of the National Electronics Manufacturing Technology Center of Excellence.",
+      "releaseDate": "December, 2010",
+      "summary": "",
+      "url": "https://www.seanclancy.org/wp-content/uploads/2005/06/empfasis_12-10.pdf"
+    },
+    {
+      "name": "Attaching fiber optic modules",
+      "type": "article",
+      "author": "Sean O. Clancy",
+      "publisher": "EMPFasis: A publication of the National Electronics Manufacturing Technology Center of Excellence.",
+      "releaseDate": "November, 2010",
+      "summary": "",
+      "url": "https://www.seanclancy.org/wp-content/uploads/2005/06/empfasis_11-10.pdf"
+    },
+    {
+      "name": "Avoid the BGA voids",
+      "type": "article",
+      "author": "Sean O. Clancy",
+      "publisher": "Printed Circuit Design & Fab/Circuits Assembly",
+      "releaseDate": "November, 2010",
+      "summary": "Credited only as ACI Technologies; reprint of an EMPFasis article.",
+      "url": "https://www.seanclancy.org/wp-content/uploads/2016/04/Circuits-Assembly-11-2010.pdf"
+    },
+    {
+      "name": "Ball grid array (BGA) voiding affecting functionality",
+      "type": "article",
+      "author": "Sean O. Clancy",
+      "publisher": "EMPFasis: A publication of the National Electronics Manufacturing Technology Center of Excellence.",
+      "releaseDate": "August, 2010",
+      "summary": "",
+      "url": "https://www.seanclancy.org/wp-content/uploads/2005/06/empfasis_8-10.pdf"
+    },
+    {
+      "name": "Cleanliness and corrosion mitigation",
+      "type": "article",
+      "author": "Sean O. Clancy",
+      "publisher": "Printed Circuit Design & Fab/Circuits Assembly",
+      "releaseDate": "April, 2010",
+      "summary": "Credited only as ACI Technologies; reprint of an EMPFasis article.",
+      "url": "https://www.seanclancy.org/wp-content/uploads/2016/04/Circuits-Assembly-04-2010.pdf"
+    },
+    {
+      "name": "Cleanliness/corrosion mitigation",
+      "type": "article",
+      "author": "Sean O. Clancy",
+      "publisher": "EMPFasis: A publication of the National Electronics Manufacturing Technology Center of Excellence.",
+      "releaseDate": "December, 2009",
+      "summary": "",
+      "url": "https://www.seanclancy.org/wp-content/uploads/2005/06/empfasis_12-09.pdf"
+    },
+    {
+      "name": "Non-destructive test methods",
+      "type": "article",
+      "author": "Sean O. Clancy",
+      "publisher": "EMPFasis: A publication of the National Electronics Manufacturing Technology Center of Excellence.",
+      "releaseDate": "October, 2009",
+      "summary": "",
+      "url": "https://www.seanclancy.org/wp-content/uploads/2005/06/empfasis_10-09.pdf"
+    },
+    {
+      "name": "Five types of conformal coatings",
+      "type": "article",
+      "author": "Sean O. Clancy",
+      "publisher": "EMPFasis: A publication of the National Electronics Manufacturing Technology Center of Excellence.",
+      "releaseDate": "May, 2009",
+      "summary": "",
+      "url": "https://www.seanclancy.org/wp-content/uploads/2005/06/empfasis_5-09.pdf"
+    },
+    {
+      "name": "Method of detecting contamination",
+      "type": "article",
+      "author": "Sean O. Clancy",
+      "publisher": "EMPFasis: A publication of the National Electronics Manufacturing Technology Center of Excellence.",
+      "releaseDate": "November, 2008",
+      "summary": "",
+      "url": "https://www.seanclancy.org/wp-content/uploads/2005/06/empfasis_11-08.pdf"
+    },
+    {
+      "name": "Electrochemical deposition of a new n-doping polymer based on bis(thienyl)isopyrazole",
+      "type": "journal",
+      "author": "David L. Witker, Sean O. Clancy, David J. Irvin, John D. Stenger-Smith, and Jennifer A. Irvin",
+      "publisher": "Journal of The Electrochemical Society",
+      "releaseDate": "February, 2007",
+      "summary": "",
+      "url": "https://www.seanclancy.org/files/nawcwd-bis(thienyl)isopyrazole.pdf"
+    },
+    {
+      "name": "Design and syntheses of polymeric materials for visible and near-infrared emitting applications.",
+      "type": "dissertation",
+      "author": "Sean O. Clancy",
+      "publisher": "University of Southern California",
+      "releaseDate": "2005",
+      "summary": "",
+      "url": "https://www.seanclancy.org/files/dissertation.pdf"
+    },
+    {
+      "name": "The structure-property relationship of conjugated polymers: the effect of heteroaromatic rings and connectivity on photophysical properties.",
+      "type": "conference",
+      "author": "Asanga B. Padmaperuma, Sean O. Clancy, and Aaron W. Harper",
+      "publisher": "Polymeric Materials: Science and Engineering (PMSE)",
+      "releaseDate": "2003",
+      "summary": "",
+      "url": "https://www.seanclancy.org/files/usc-pmse.pdf"
+    },
+    {
+      "name": "Energy transfer studies of polyphenylene-type polymers to a series of dyes.",
+      "type": "conference",
+      "author": "Sean O. Clancy, Asanga B. Padmaperuma, and Aaron W. Harper",
+      "publisher": "Materials Research Society (MRS) Symposium Proceedings (Organic and Polymeric Materials and Devices)",
+      "releaseDate": "2003",
+      "summary": "",
+      "url": "https://www.seanclancy.org/files/usc-mrs.pdf"
+    },
+    {
+      "name": "Energy transfer from polyphenylene-type polymers to a series of Coumarins and other acceptors",
+      "type": "conference",
+      "author": "Sean O. Clancy, Asanga B. Padmaperuma, and Aaron W. Harper",
+      "publisher": "Proceedings of SPIE: The International Society for Optical Engineering (Nanomaterials and Their Optical Applications)",
+      "releaseDate": "2003",
+      "summary": "",
+      "url": "https://www.seanclancy.org/files/usc-spie.pdf"
+    }
+  ]
+}
