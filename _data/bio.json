@@ -13,6 +13,7 @@
       { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/seanclancy" }
     ]
   },
+
   "interests": [
     { "name": "Additive Manufacturing (3D Printing)" },
     { "name": "Analytical, Organic, Physical, and Polymer Chemistry" },
@@ -26,6 +27,7 @@
     { "name": "Technical Writing & Training" },
     { "name": "Technology Development" }
   ],
+
   "skills": [
     {
       "name": "Cleanliness Testing and Residue Analysis",
@@ -115,6 +117,7 @@
       "keywords": [ "Autodesk CFD", "MathWorks MATLAB & SIMULINK" ]
     }
   ],
+
   "education": [
    {
       "institution": "University of Delaware, Wilmington, DE",
@@ -153,6 +156,7 @@
      ]
    }    
   ],
+
   "work": [
     {
       "organization": "HZO, Inc.",
@@ -194,7 +198,8 @@
         "Customer-facing engineer for hands-on development of coating evaluations to meet customer specifications, root cause failure analysis, and guidance with product validation testing."
       ]
    }
-   {
+  ],
+
   "awards": [
     {
       "title": "Certificate of Appreciation",
