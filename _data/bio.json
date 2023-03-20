@@ -9,8 +9,8 @@
     "summary": "I’m passionate about science, technology, community, and family. Working hard isn’t enough, you also have to be flexible, innovative, and ethical. That’s what will makes me a valuable member of organizations, as well as being a good friend. I have strong technical skills and hands-on experience in creating or modifying existing products and processes using analytical, synthetic organic, and polymer chemistry, as well as materials science and engineering. I’ve helped develop and qualify existing and new materials and manufacturing processes, as well as figured things out when issues arose and how to get a manufacturing line up and running again. Besides science and technology, I have experience in project management, technical writing, communications, and marketing. Outside of chemistry and the sciences, I enjoy the culinary arts, drawing, photography, reading, gaming, web design, and working with computers.",
     "location": { "address": "", "postalCode": "", "city": "", "countryCode": "USA", "region": "" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "https://github.com/seanclancy" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "https://linkedin.com/in/seanclancy" }
+      { "network": "github", "username": "seanclancy", "url": "https://github.com/seanclancy" },
+      { "network": "linkedin", "username": "seanclancy", "url": "https://linkedin.com/in/seanclancy" }
     ]
   },
   
@@ -55,7 +55,7 @@
 
   "work": [
     {
-      "organization": "HZO, Inc.",
+      "company": "HZO, Inc.",
       "website": "https://www.hzo.com/",
       "position": "Director of Materials Science",
       "startDate": "2014-04-01",
@@ -69,7 +69,7 @@
     ]
    },
     {
-      "organization": "The University of Utah",
+      "company": "The University of Utah",
       "website": "https://www.utah.edu/",
       "position": "Adjunct Professor",
       "startDate": "2017-04-01",
@@ -81,7 +81,7 @@
     ]
    },
     {
-      "organization": "Clancy & Associates Technical Services LLC",
+      "company": "Clancy & Associates Technical Services LLC",
       "website": "https://www.clancy.tech/",
       "position": "CEO, Co-Founder, and Principal Consultant",
       "startDate": "2016-10-01",
@@ -90,9 +90,9 @@
       "highlights": [
         "Provided consulting services in the STEAM fields (science, technology,engineering, arts, and mathematics) with practical solutions to development,manufacturing, and process issues, as well as advice, instrumental analysis,teaching materials, and training services."
     ]
-   },
+    },
     {
-      "organization": "ACI Technologies, Inc.",
+      "company": "ACI Technologies, Inc.",
       "website": "https://www.aciusa.org/",
       "position": "Research Associate/Chemist",
       "startDate": "2008-05-01",
@@ -104,9 +104,9 @@
         "Wrote eleven articles for EMPFasis, a publication of the Electronics Manufacturing Productivity Facility (EMPF), of which two were republished in Printed Circuit Design & Fab/Circuits Assembly: The Journal of Surface Mountand Electronics Assembly.",
         "Wrote “Failure analysis techniques for electronics” instructional and technicalmarketing book with a case studies companion presentation for commercialservices and professional skills training courses. * Updated curriculum and delivered instruction for professional skills trainingcourses: Failure Analysis and Reliability Testing in Electronics and ElectronicsManufacturing Boot Camps."
     ]
-   },
-   {
-    "organization": "NanoSelect, Inc.",
+    },
+    {
+    "company": "NanoSelect, Inc.",
     "position": "Staff Scientist",
     "startDate": "2006-05-01",
     "endDate": "2008-03-01",
@@ -114,10 +114,10 @@
     "highlights": [
       "Evaluated ion-sensitive field effect transistor (ISFET) devices as sensors and determined the root cause of a 50% failure rate for ISFETs by examining the CAD data and found errors in the silicon design, leading to a Corrective and Preventative Action (CAPA) for the following Metal Oxide Semiconductor Implementation Service (MOSIS) run.", 
       "Assisted materials engineers with thermal-chemical vapor deposition (TCVD) and plasma enhanced-CVD (PE-CVD) growth of CNTs, initiated-CVD (iCVD) growth of polymer films, as well as supercritical carbon dioxide (scCO2) fluid infusion processes."
-  ]
+   ]
    },
    {
-    "organization": "Naval Air Warfare Center Weapons Division (NAWCWD)",
+    "company": "Naval Air Warfare Center Weapons Division (NAWCWD)",
     "website": "https://www.navair.navy.mil/nawcwd/",
     "position": "ASEE Fellow / Postdoctoral Researcher",
     "startDate": "2005-02-01",
@@ -126,21 +126,21 @@
     "highlights": [
       "Published a project in the peer-reviewed Journal of the Electrochemical Society 2007, 154 (4), G95-G98."
   ]
-},
-{
-  "organization": "The University of Southern California",
-  "website": "https://www.usc.edu/",
-  "position": "Graduate Research Assistant",
-  "startDate": "2000-08-01",
-  "endDate": "2005-02-01",
-  "summary": "Developed conjugated polymers, ligands, and lanthanide complexes for energy transfer studies and optical applications.",
-  "highlights": [
-    "Published multiple projects in the MRS, PMSE, and SPIE proceedings.",
-    "Presented project results at MRS and SPIE conferences."
+  },
+  {
+    "company": "The University of Southern California",
+    "website": "https://www.usc.edu/",
+    "position": "Graduate Research Assistant",
+    "startDate": "2000-08-01",
+    "endDate": "2005-02-01",
+    "summary": "Developed conjugated polymers, ligands, and lanthanide complexes for energy transfer studies and optical applications.",
+    "highlights": [
+      "Published multiple projects in the MRS, PMSE, and SPIE proceedings.",
+      "Presented project results at MRS and SPIE conferences."
 ]
 },
 {
-  "organization": "Texas A&M University",
+  "company": "Texas A&M University",
   "website": "https://www.tamu.edu/",
   "position": "Graduate Research Assistant",
   "startDate": "1999-08-01",
@@ -151,7 +151,7 @@
 ]
 },
 {
-  "organization": "Mayo Clinic",
+  "company": "Mayo Clinic",
   "website": "https://www.mayoclinic.org/",
   "position": "Research Technologist",
   "startDate": "1997-07-01",
@@ -163,7 +163,7 @@
 ]
 },
 {
-  "organization": "Winn-Dixie",
+  "company": "Winn-Dixie",
   "website": "https://www.winndixie.com/",
   "position": "Pharmacy Technician",
   "startDate": "1992-12-01",
