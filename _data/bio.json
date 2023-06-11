@@ -204,34 +204,6 @@
       "summary": "Awarded for a proposal on the synthesis and computational chemistry of soluble electron deficient (n-type) conjugated polymers for charge storage applications."
     },
     {
-      "type": "fellowship",
-      "title": "Research Assistantship",
-      "date": "2000 to 2005",
-      "awarder": "University of Southern California",
-      "summary": "Awarded for showing successful progress during my graduate studies."
-    },
-    {
-      "type": "fellowship",
-      "title": "Benson Endowed Fellowship",
-      "date": "2003 to 2005",
-      "awarder": "University of Southern California",
-      "summary": ""
-    },
-    {
-      "type": "fellowship",
-      "title": "Harold E. Moulton Graduate Fellowship",
-      "date": "2004",
-      "awarder": "University of Southern California",
-      "summary": ""
-    },
-    {
-      "type": "fellowship",
-      "title": "Beckman Foundation Research Fellowship",
-      "date": "2000 to 2002",
-      "awarder": "University of Southern California",
-      "summary": ""
-    },
-    {
       "type": "award",
       "title": "Above and Beyond Employee Recognition",
       "date": "1997",
@@ -253,125 +225,56 @@
       "summary": ""
     },
     {
-      "type": "award",
-      "title": "Advanced Placement (AP) Scholar",
-      "date": "1993",
-      "awarder": "Stanton College Preparatory School",
-      "summary": ""
-    },
-    {
-      "type": "award",
-      "title": "International Baccalaureate (IB) Program Certificate",
-      "date": "1993",
-      "awarder": "Stanton College Preparatory School",
-      "summary": ""
-    }
-    ],
-
-    "certificates": [
-      {
-        "name": "Certified IPC Specialist - IPC-A-600 - Acceptability of Printed Boards",
-        "issuer": "IPC",
-        "endDate": "2015-06-30",
-        "startDate": "2013-06-30"
-      },
-      {
-        "name": "Amateur Radio Operator License, Technician Class",
-        "issuer": "Federal Communications Commission",
-        "endDate": "2027-04-30",
-        "startDate": "1997-04-30"
-      }
     ],
 
    "skills": [
     {
-      "name": "Cleanliness Testing and Residue Analysis",
-      "keywords": [ 
-    ]
-    },
-    {
-      "name": "Electrochemical Processes and Testing",
-      "keywords": [ 
-    ]
-    },
-    {
-      "name": "Environmental Stress Screening (ESS)",
-      "keywords": [ 
-    ]
-    },
-    {
-      "name": "Imaging",
-      "keywords": [ 
-    ]
-    },
-    {
-      "name": "Surface Science",
-      "keywords": [ 
-    ]
-    },
-    {
-      "name": "Thickness Measurements",
-      "keywords": [ 
-    ]
-    },
-    {
-      "name": "Purity and Identity Testing: Chromatography",
-      "keywords": [ 
-    ]
-    },
-    {
-      "name": "Purity and Identity Testing: Spectroscopy",
-      "keywords": [ 
-    ]
-    },
-    {
-      "name": "Purity and Identity Testing: Thermal Analysis",
-      "keywords": [ 
-    ]
-    },
-    {
-      "name": "Root Cause Failure Analysis (RCFA)",
-      "keywords": [ 
-    ]
-    },
-    {
-      "name": "Thin Film and Conformal Coating Processes",
-     "keywords": [ 
-    ]
-    },
-    {
       "name": "Toolsets/OS",
-     "keywords": [ "Windows", "macOS", "Linux", "Ubuntu", "iPhone OS", "Android", "Docker", "Virtual Machines (VMs)", "Git/GitHub" ]
+      "keywords": [ "Windows", "macOS", "Linux", "Ubuntu", "iPhone OS", "Android", "Docker", "Virtual Machines (VMs)", "Git/GitHub" ]
     },
     {
       "name": "Document and Media Creation, Design, and Editing",
-      "keywords": [ "Text Documents", "Spreadsheets", "Presentations", "Audio", "Video", "Images" ]
+      "keywords": [ "Text", "Spreadsheets", "Presentations", "Audio", "Video", "Images", "CAD", "Data Visualizations" ]
     },
     {
-      "name": "Data, Image, and Statistical Analysis",
-      "keywords": [ 
-    ]
-    },
-    {
-      "name": "Computational Chemistry",
-      "keywords": [ 
-    ]
-    },
-    {
-      "name": "Analysis, Design, Evaluation, and Simulation",
-      "keywords": [ 
-    ]
+      "name": "Analysis, Design, Evaluation, and Simulation"
     },  
     {
-      "name": "Additive and Subtractive Manufacturing",
-      "keywords": [ 
-    ]
+      "name": "Additive and Subtractive Manufacturing"
     },    
     {
-      "name": "Electronics and Semiconductor Manufacturing",
-      "keywords": [
-    ]
+      "name": "Electronics and Semiconductor Manufacturing"
     }
+    {
+      "name": "Cleanliness Testing and Residue Analysis"
+    },
+    {
+      "name": "Computational Chemistry"
+    },
+    {
+      "name": "Data, Image, Instrumental, and Statistical Analysis"
+    },
+    {
+      "name": "Electrochemical Processes and Testing"
+    },
+    {
+      "name": "Environmental Stress Screening (ESS) and Reliability Testing"
+    },
+    {
+      "name": "Imaging: Microscopy, Multispectral, Photography, Timelapse, etc."
+    },
+    {
+      "name": "Purity and Identity Testing: Chromatography, Spectroscopy, and Thermal Analysis"
+    },
+    {
+      "name": "Root Cause Failure Analysis (RCFA)"
+    },
+    {
+      "name": "Surface Science"
+    },
+    {
+      "name": "Thin Film and Conformal Coating Processes"
+    },
   ],
 
   "publications": [
