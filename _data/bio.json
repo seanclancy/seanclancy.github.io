@@ -223,7 +223,7 @@
       "date": "1993 to 1997",
       "awarder": "University of North Florida",
       "summary": ""
-    },
+    }
     ],
 
    "skills": [
@@ -243,7 +243,7 @@
     },    
     {
       "name": "Electronics and Semiconductor Manufacturing"
-    }
+    },
     {
       "name": "Cleanliness Testing and Residue Analysis"
     },
@@ -273,7 +273,7 @@
     },
     {
       "name": "Thin Film and Conformal Coating Processes"
-    },
+    }
   ],
 
   "publications": [
