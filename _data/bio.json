@@ -245,19 +245,10 @@
       "name": "Electronics and Semiconductor Manufacturing"
     },
     {
-      "name": "Cleanliness Testing and Residue Analysis"
-    },
-    {
       "name": "Computational Chemistry"
     },
     {
       "name": "Data, Image, Instrumental, and Statistical Analysis"
-    },
-    {
-      "name": "Electrochemical Processes and Testing"
-    },
-    {
-      "name": "Environmental Stress Screening (ESS) and Reliability Testing"
     },
     {
       "name": "Imaging: Microscopy, Multispectral, Photography, Timelapse, etc."
@@ -269,10 +260,7 @@
       "name": "Root Cause Failure Analysis (RCFA)"
     },
     {
-      "name": "Surface Science"
-    },
-    {
-      "name": "Thin Film and Conformal Coating Processes"
+      "name": "Surface Science, Thin Film, and Conformal Coating Processes"
     }
   ],
 
@@ -528,27 +516,6 @@
       "releaseDate": "2003",
       "summary": "",
       "url": "https://www.seanclancy.org/files/usc-spie.pdf"
-    }
-  ],
-  
-    "volunteer": [
-    {
-      "position": "Social Services Volunteer",
-      "summary": "",
-      "highlights": [
-        "Produce Sorter, Food Bank of Central & Eastern NC, As part of ActivateGood's 9/11 Day of Service, I helped the food bank by sorting large pallets of sweet potatoes and disposing of damaged and expired goods. September 2019",
-        "Dry Goods Repackager, Utah Food Bank, Volunteered at the food bank to help repackage dry goods. November 2015",
-        "Soccer Goal Monitor, Special Olympics Utah, Volunteered at the soccer field to help keep the game in motion and players involved. June 2015",
-        "Dry Goods Repackager, Utah Food Bank, Volunteered at the food bank to help repackage dry goods. November 2014",
-        "Trail Maintainer, Draper Parks & Recreation Department, Volunteered with the parks department to help clear brush and clean up the Potato Hill walking and mountain biking trail in Draper, UT. June 2014"
-      ]
-    },
-    {
-      "position": "Animal Welfare Volunteer",
-      "summary": "",
-      "highlights": [
-        "Digital Marketing, Pet Integrity, Assisted with website redesign and digital photography for a no-kill animal shelter in Ridgecrest, CA. April 2005 to May 2006"
-      ]
     }
   ]
 }
