@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/fa/failure-analysis.png
-title: "Dailure Analysis"
+title: "Failure Analysis"
 date: 2023
 published: true
 labels:
