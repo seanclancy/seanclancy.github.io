@@ -1,4 +1,19 @@
+---
+layout: project
+type: project
+image: img/fa/failure-analysis.png
+title: "Dailure Analysis"
+date: 2023
+published: true
+labels:
+  - Failure Analysis
+  - Electronics Manufacturing
+  - Materials Characterization
 
+summary: "Examples of electronics manufacturing fIlure analysis cases that I've evaluated."
+---
+
+<img class="img-fluid" src="../img/fa/failure-analysis.png">
 
 While at ACI, I wrote an instructional and technical marketing guidebook called “Failure Analysis Techniques for Electronics.” 
 
