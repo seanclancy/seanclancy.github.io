@@ -6,12 +6,7 @@
     "email": "me@seanclancy.org",
     "phone": "302-468-7321",
     "website": "https://seanclancy.github.io",
-    "summary": "
-      - I’m passionate about science, technology, community, and family. Working hard isn’t enough, you also have to be flexible, innovative, and ethical. That’s what will makes me a valuable member of organizations, as well as being a good friend. 
-      - I have strong technical skills and hands-on experience in creating or modifying existing products and processes using analytical, synthetic organic, and polymer chemistry, as well as materials science and engineering. 
-      - I’ve helped develop and qualify existing and new materials and manufacturing processes, as well as figured things out when issues arose and how to get a manufacturing line up and running again. 
-      - Besides science and technology, I have experience in project management, technical writing, communications, and marketing. 
-      - Outside of chemistry and the sciences, I enjoy the culinary arts, drawing, photography, reading, gaming, web design, and working with computers.",
+    "summary": "I’m passionate about science, technology, community, and family. Working hard isn’t enough, you also have to be flexible, innovative, and ethical. That’s what will makes me a valuable member of organizations, as well as being a good friend. I have strong technical skills and hands-on experience in creating or modifying existing products and processes using analytical, synthetic organic, and polymer chemistry, as well as materials science and engineering. I’ve helped develop and qualify existing and new materials and manufacturing processes, as well as figured things out when issues arose and how to get a manufacturing line up and running again. Besides science and technology, I have experience in project management, technical writing, communications, and marketing. Outside of chemistry and the sciences, I enjoy the 3D design and printing, the culinary arts, drawing, photography, reading, gaming, and working with computers.",
     "location": { "countryCode": "USA" },
     "profiles": [
       { "network": "github", "username": "seanclancy", "url": "https://github.com/seanclancy" },
